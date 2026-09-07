@@ -1,0 +1,6 @@
+{
+  "name": "AquaNex - AI-Powered Marine Debris Detection",
+  "description": "Automated side-scan sonar analysis for debris and seabed anomalies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
